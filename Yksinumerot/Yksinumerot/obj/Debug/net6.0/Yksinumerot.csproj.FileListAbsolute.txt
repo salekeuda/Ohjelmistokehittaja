@@ -1,0 +1,15 @@
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\bin\Debug\net6.0\Yksinumerot.exe
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\bin\Debug\net6.0\Yksinumerot.deps.json
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\bin\Debug\net6.0\Yksinumerot.runtimeconfig.json
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\bin\Debug\net6.0\Yksinumerot.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\bin\Debug\net6.0\Yksinumerot.pdb
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\obj\Debug\net6.0\Yksinumerot.csproj.AssemblyReference.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\obj\Debug\net6.0\Yksinumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\obj\Debug\net6.0\Yksinumerot.AssemblyInfoInputs.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\obj\Debug\net6.0\Yksinumerot.AssemblyInfo.cs
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\obj\Debug\net6.0\Yksinumerot.csproj.CoreCompileInputs.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\obj\Debug\net6.0\Yksinumerot.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\obj\Debug\net6.0\refint\Yksinumerot.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\obj\Debug\net6.0\Yksinumerot.pdb
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\obj\Debug\net6.0\Yksinumerot.genruntimeconfig.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Yksinumerot\Yksinumerot\obj\Debug\net6.0\ref\Yksinumerot.dll
