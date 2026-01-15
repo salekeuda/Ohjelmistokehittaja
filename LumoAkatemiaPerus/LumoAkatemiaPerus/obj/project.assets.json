@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sami.leppanen\\source\\repos\\Ohjelmistokehittaja\\Dia 71\\Dia 71\\Dia 71.csproj",
-      "projectName": "Dia 71",
-      "projectPath": "C:\\Users\\sami.leppanen\\source\\repos\\Ohjelmistokehittaja\\Dia 71\\Dia 71\\Dia 71.csproj",
+      "projectUniqueName": "C:\\Users\\sami.leppanen\\source\\repos\\Ohjelmistokehittaja\\LumoAkatemiaPerus\\LumoAkatemiaPerus\\LumoAkatemiaPerus.csproj",
+      "projectName": "LumoAkatemiaPerus",
+      "projectPath": "C:\\Users\\sami.leppanen\\source\\repos\\Ohjelmistokehittaja\\LumoAkatemiaPerus\\LumoAkatemiaPerus\\LumoAkatemiaPerus.csproj",
       "packagesPath": "C:\\Users\\sami.leppanen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sami.leppanen\\source\\repos\\Ohjelmistokehittaja\\Dia 71\\Dia 71\\obj\\",
+      "outputPath": "C:\\Users\\sami.leppanen\\source\\repos\\Ohjelmistokehittaja\\LumoAkatemiaPerus\\LumoAkatemiaPerus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

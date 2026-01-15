@@ -1,0 +1,15 @@
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\bin\Debug\net7.0\LumoAkatemiaPerus.exe
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\bin\Debug\net7.0\LumoAkatemiaPerus.deps.json
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\bin\Debug\net7.0\LumoAkatemiaPerus.runtimeconfig.json
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\bin\Debug\net7.0\LumoAkatemiaPerus.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\bin\Debug\net7.0\LumoAkatemiaPerus.pdb
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\obj\Debug\net7.0\LumoAkatemiaPerus.csproj.AssemblyReference.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\obj\Debug\net7.0\LumoAkatemiaPerus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\obj\Debug\net7.0\LumoAkatemiaPerus.AssemblyInfoInputs.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\obj\Debug\net7.0\LumoAkatemiaPerus.AssemblyInfo.cs
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\obj\Debug\net7.0\LumoAkatemiaPerus.csproj.CoreCompileInputs.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\obj\Debug\net7.0\LumoAkatemiaPerus.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\obj\Debug\net7.0\refint\LumoAkatemiaPerus.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\obj\Debug\net7.0\LumoAkatemiaPerus.pdb
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\obj\Debug\net7.0\LumoAkatemiaPerus.genruntimeconfig.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoAkatemiaPerus\LumoAkatemiaPerus\obj\Debug\net7.0\ref\LumoAkatemiaPerus.dll
