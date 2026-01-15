@@ -1,0 +1,15 @@
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\obj\Debug\net7.0\dia12.csproj.AssemblyReference.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\obj\Debug\net7.0\dia12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\obj\Debug\net7.0\dia12.AssemblyInfoInputs.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\obj\Debug\net7.0\dia12.AssemblyInfo.cs
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\obj\Debug\net7.0\dia12.csproj.CoreCompileInputs.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\bin\Debug\net7.0\dia12.exe
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\bin\Debug\net7.0\dia12.deps.json
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\bin\Debug\net7.0\dia12.runtimeconfig.json
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\bin\Debug\net7.0\dia12.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\bin\Debug\net7.0\dia12.pdb
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\obj\Debug\net7.0\dia12.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\obj\Debug\net7.0\refint\dia12.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\obj\Debug\net7.0\dia12.pdb
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\obj\Debug\net7.0\dia12.genruntimeconfig.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\dia12\dia12\obj\Debug\net7.0\ref\dia12.dll
