@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            SuurinLuku();
+            //SuurinLuku();
+            //SuurinKolmesta();
+            tehtava3();
         }
         static void SuurinLuku()
         {
@@ -21,6 +23,25 @@
                 Console.WriteLine("{0} on suurempi kuin {1}", toka, eka);
             }
           }
-        
+        static void SuurinKolmesta()
+        {
+            int[] luvut = new int[3];
+            Console.Write("Anna ensimmäinen kokonaisluku: ");
+            luvut[0] = int.Parse(Console.ReadLine());
+            Console.Write("Anna toinen kokonaisluku: ");
+            luvut[1] = int.Parse(Console.ReadLine());
+            Console.Write("Anna kolmas kokonaisluku: ");
+            luvut[2] = int.Parse(Console.ReadLine());
+            Array.Sort(luvut);
+            Console.Write("Luvut järjestyksessä: ");
+            foreach (int x in luvut)
+            {
+                Console.Write("{0} ", x);
+            }
+        }
+        static void tehtava3()
+        {
+
+        }
     }
 }
