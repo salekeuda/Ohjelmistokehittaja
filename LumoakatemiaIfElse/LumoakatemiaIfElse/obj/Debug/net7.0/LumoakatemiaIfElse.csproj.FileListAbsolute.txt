@@ -1,0 +1,15 @@
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\bin\Debug\net7.0\LumoakatemiaIfElse.exe
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\bin\Debug\net7.0\LumoakatemiaIfElse.deps.json
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\bin\Debug\net7.0\LumoakatemiaIfElse.runtimeconfig.json
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\bin\Debug\net7.0\LumoakatemiaIfElse.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\bin\Debug\net7.0\LumoakatemiaIfElse.pdb
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\obj\Debug\net7.0\LumoakatemiaIfElse.csproj.AssemblyReference.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\obj\Debug\net7.0\LumoakatemiaIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\obj\Debug\net7.0\LumoakatemiaIfElse.AssemblyInfoInputs.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\obj\Debug\net7.0\LumoakatemiaIfElse.AssemblyInfo.cs
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\obj\Debug\net7.0\LumoakatemiaIfElse.csproj.CoreCompileInputs.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\obj\Debug\net7.0\LumoakatemiaIfElse.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\obj\Debug\net7.0\refint\LumoakatemiaIfElse.dll
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\obj\Debug\net7.0\LumoakatemiaIfElse.pdb
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\obj\Debug\net7.0\LumoakatemiaIfElse.genruntimeconfig.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\LumoakatemiaIfElse\LumoakatemiaIfElse\obj\Debug\net7.0\ref\LumoakatemiaIfElse.dll
