@@ -1,0 +1,14 @@
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\obj\Debug\net10.0\lumoAkatemiaPelit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\obj\Debug\net10.0\lumoAkatemiaPelit.AssemblyInfoInputs.cache
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\obj\Debug\net10.0\lumoAkatemiaPelit.AssemblyInfo.cs
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\obj\Debug\net10.0\lumoAkatemiaPelit.csproj.CoreCompileInputs.cache
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\bin\Debug\net10.0\lumoAkatemiaPelit.exe
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\bin\Debug\net10.0\lumoAkatemiaPelit.deps.json
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\bin\Debug\net10.0\lumoAkatemiaPelit.runtimeconfig.json
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\bin\Debug\net10.0\lumoAkatemiaPelit.dll
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\bin\Debug\net10.0\lumoAkatemiaPelit.pdb
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\obj\Debug\net10.0\lumoAkatemiaPelit.dll
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\obj\Debug\net10.0\refint\lumoAkatemiaPelit.dll
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\obj\Debug\net10.0\lumoAkatemiaPelit.pdb
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\obj\Debug\net10.0\lumoAkatemiaPelit.genruntimeconfig.cache
+C:\Users\Pääkäyttäjä\source\repos\lumoAkatemiaPelit\lumoAkatemiaPelit\obj\Debug\net10.0\ref\lumoAkatemiaPelit.dll

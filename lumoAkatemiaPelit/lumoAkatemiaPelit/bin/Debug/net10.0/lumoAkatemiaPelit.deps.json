@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "lumoAkatemiaPelit/1.0.0": {
+        "runtime": {
+          "lumoAkatemiaPelit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lumoAkatemiaPelit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

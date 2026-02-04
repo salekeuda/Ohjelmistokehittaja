@@ -1,0 +1,14 @@
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\bin\Debug\net10.0\LumoTaulukko.exe
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\bin\Debug\net10.0\LumoTaulukko.deps.json
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\bin\Debug\net10.0\LumoTaulukko.runtimeconfig.json
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\bin\Debug\net10.0\LumoTaulukko.dll
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\bin\Debug\net10.0\LumoTaulukko.pdb
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\obj\Debug\net10.0\LumoTaulukko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\obj\Debug\net10.0\LumoTaulukko.AssemblyInfoInputs.cache
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\obj\Debug\net10.0\LumoTaulukko.AssemblyInfo.cs
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\obj\Debug\net10.0\LumoTaulukko.csproj.CoreCompileInputs.cache
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\obj\Debug\net10.0\LumoTaulukko.dll
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\obj\Debug\net10.0\refint\LumoTaulukko.dll
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\obj\Debug\net10.0\LumoTaulukko.pdb
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\obj\Debug\net10.0\LumoTaulukko.genruntimeconfig.cache
+C:\Users\Pääkäyttäjä\source\repos\LumoTaulukko\LumoTaulukko\obj\Debug\net10.0\ref\LumoTaulukko.dll

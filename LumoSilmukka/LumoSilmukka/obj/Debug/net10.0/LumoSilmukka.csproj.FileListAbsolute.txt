@@ -1,0 +1,14 @@
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\bin\Debug\net10.0\LumoSilmukka.exe
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\bin\Debug\net10.0\LumoSilmukka.deps.json
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\bin\Debug\net10.0\LumoSilmukka.runtimeconfig.json
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\bin\Debug\net10.0\LumoSilmukka.dll
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\bin\Debug\net10.0\LumoSilmukka.pdb
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\obj\Debug\net10.0\LumoSilmukka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\obj\Debug\net10.0\LumoSilmukka.AssemblyInfoInputs.cache
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\obj\Debug\net10.0\LumoSilmukka.AssemblyInfo.cs
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\obj\Debug\net10.0\LumoSilmukka.csproj.CoreCompileInputs.cache
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\obj\Debug\net10.0\LumoSilmukka.dll
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\obj\Debug\net10.0\refint\LumoSilmukka.dll
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\obj\Debug\net10.0\LumoSilmukka.pdb
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\obj\Debug\net10.0\LumoSilmukka.genruntimeconfig.cache
+C:\Users\Pääkäyttäjä\source\repos\LumoSilmukka\LumoSilmukka\obj\Debug\net10.0\ref\LumoSilmukka.dll
