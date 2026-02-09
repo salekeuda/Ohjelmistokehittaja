@@ -1,0 +1,11 @@
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\bin\Debug\Harjoitus7.exe.config
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\bin\Debug\Harjoitus7.exe
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\bin\Debug\Harjoitus7.pdb
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\obj\Debug\Harjoitus7.csproj.AssemblyReference.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\obj\Debug\Harjoitus7.csproj.SuggestedBindingRedirects.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\obj\Debug\Harjoitus7.Form1.resources
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\obj\Debug\Harjoitus7.Properties.Resources.resources
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\obj\Debug\Harjoitus7.csproj.GenerateResource.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\obj\Debug\Harjoitus7.csproj.CoreCompileInputs.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\obj\Debug\Harjoitus7.exe
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\Harjoitus7\Harjoitus7\obj\Debug\Harjoitus7.pdb
