@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2972622C-C9DD-4E60-B133-615D53A655A3}</ProjectGuid>
+    <ProjectGuid>{1549B4C4-5B79-4233-BF8B-628A5C0B1B95}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>harjoitus15</RootNamespace>
-    <AssemblyName>harjoitus15</AssemblyName>
+    <RootNamespace>harjoitus16</RootNamespace>
+    <AssemblyName>harjoitus16</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

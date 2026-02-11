@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace harjoitus15
+namespace harjoitus16
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace harjoitus15
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new sekkariFM());
+            Application.Run(new Form1());
         }
     }
 }

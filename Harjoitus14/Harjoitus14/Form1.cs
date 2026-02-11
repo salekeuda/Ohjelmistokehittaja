@@ -27,9 +27,10 @@ namespace Harjoitus14
             string teksti = "";
             // Luetaan nykyinen sisältö
             teksti += kirjaTB.Text;
+           
 
             // Lisätään uusi merkintä + aikaleima
-            teksti += "\n" + DateTime.Now.ToString("dd.MM.yyyy HH:mm") + "\n";
+            teksti += " " + DateTime.Now.ToString("dd.MM.yyyy HH:mm") + Environment.NewLine;
 
             // Tallennetaan tiedostoon
             TextWriter text = new StreamWriter("C:\\Temp\\paivakirja.txt");

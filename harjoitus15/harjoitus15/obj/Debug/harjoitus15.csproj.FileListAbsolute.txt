@@ -1,0 +1,11 @@
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\obj\Debug\harjoitus15.csproj.AssemblyReference.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\obj\Debug\harjoitus15.csproj.SuggestedBindingRedirects.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\obj\Debug\harjoitus15.sekkariFM.resources
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\obj\Debug\harjoitus15.Properties.Resources.resources
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\obj\Debug\harjoitus15.csproj.GenerateResource.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\obj\Debug\harjoitus15.csproj.CoreCompileInputs.cache
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\bin\Debug\harjoitus15.exe.config
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\bin\Debug\harjoitus15.exe
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\bin\Debug\harjoitus15.pdb
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\obj\Debug\harjoitus15.exe
+C:\Users\sami.leppanen\source\repos\Ohjelmistokehittaja\harjoitus15\harjoitus15\obj\Debug\harjoitus15.pdb
