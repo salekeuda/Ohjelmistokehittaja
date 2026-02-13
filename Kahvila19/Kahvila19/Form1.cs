@@ -16,5 +16,10 @@ namespace Kahvila19
         {
             meistaLB.Text = "Kahvila 19 on vuonna 2019 perustettu kahvila, joka sijaitsee Helsingin keskustassa. Tarjoamme laajan valikoiman erilaisia kahveja, teetä ja herkullisia leivonnaisia. Kahvilamme on tunnettu rennosta ilmapiiristään ja ystävällisestä palvelustaan. Tervetuloa nauttimaan hyvästä seurasta ja herkullisista juomista Kahvila 19:ssä!";
         }
+
+        private void meistaBT_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

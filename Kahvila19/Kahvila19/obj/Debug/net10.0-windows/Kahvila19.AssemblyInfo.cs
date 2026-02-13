@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kahvila19")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aab10ac5ebc19076eceec65067bef9c179a12db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b52bdbf33229695ba1d1e931549098a1a44f6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kahvila19")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kahvila19")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

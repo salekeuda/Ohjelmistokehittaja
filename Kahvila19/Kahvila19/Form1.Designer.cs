@@ -32,42 +32,42 @@
             vasenPL = new Panel();
             panel2 = new Panel();
             panel6 = new Panel();
-            //this.koriBT = new Button();
             panel5 = new Panel();
-           // this.herkutBT = new Button();
             panel4 = new Panel();
             juomatBT = new Button();
             panel3 = new Panel();
             ruoatBT = new Button();
             meistaBT = new Button();
             ylaPL = new Panel();
+            hattuPB = new PictureBox();
             otsikkoLB = new Label();
             meistaPL = new Panel();
+            meistaLB = new Label();
             ruoatPL = new Panel();
             juomatPL = new Panel();
             herkutPL = new Panel();
             koriPL = new Panel();
-            hattuPB = new PictureBox();
-            meistaLB = new Label();
+            herkutBT = new Button();
+            koriBT = new Button();
             vasenPL.SuspendLayout();
             ylaPL.SuspendLayout();
-            meistaPL.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)hattuPB).BeginInit();
+            meistaPL.SuspendLayout();
             SuspendLayout();
             // 
             // vasenPL
             // 
             vasenPL.BackColor = Color.DarkRed;
+            vasenPL.Controls.Add(panel3);
             vasenPL.Controls.Add(panel2);
             vasenPL.Controls.Add(panel6);
-            vasenPL.Controls.Add(this.koriBT);
             vasenPL.Controls.Add(panel5);
-            vasenPL.Controls.Add(this.herkutBT);
             vasenPL.Controls.Add(panel4);
             vasenPL.Controls.Add(juomatBT);
-            vasenPL.Controls.Add(panel3);
+            vasenPL.Controls.Add(herkutBT);
             vasenPL.Controls.Add(ruoatBT);
             vasenPL.Controls.Add(meistaBT);
+            vasenPL.Controls.Add(koriBT);
             vasenPL.Dock = DockStyle.Left;
             vasenPL.Location = new Point(0, 0);
             vasenPL.Name = "vasenPL";
@@ -91,20 +91,6 @@
             panel6.Size = new Size(11, 59);
             panel6.TabIndex = 7;
             // 
-            // koriBT
-            // 
-            this.koriBT.FlatAppearance.BorderSize = 0;
-            this.koriBT.FlatStyle = FlatStyle.Flat;
-            this.koriBT.ForeColor = SystemColors.ButtonFace;
-            this.koriBT.Image = (Image)resources.GetObject("koriBT.Image");
-            this.koriBT.Location = new Point(3, 309);
-            this.koriBT.Name = "koriBT";
-            this.koriBT.Size = new Size(137, 59);
-            this.koriBT.TabIndex = 8;
-            this.koriBT.Text = "   Kori";
-            this.koriBT.TextImageRelation = TextImageRelation.TextBeforeImage;
-            this.koriBT.UseVisualStyleBackColor = true;
-            // 
             // panel5
             // 
             panel5.BackColor = Color.White;
@@ -112,20 +98,6 @@
             panel5.Name = "panel5";
             panel5.Size = new Size(11, 59);
             panel5.TabIndex = 5;
-            // 
-            // herkutBT
-            // 
-            this.herkutBT.FlatAppearance.BorderSize = 0;
-            this.herkutBT.FlatStyle = FlatStyle.Flat;
-            this.herkutBT.ForeColor = SystemColors.ButtonFace;
-            this.herkutBT.Image = (Image)resources.GetObject("herkutBT.Image");
-            this.herkutBT.Location = new Point(3, 244);
-            this.herkutBT.Name = "herkutBT";
-            this.herkutBT.Size = new Size(137, 59);
-            this.herkutBT.TabIndex = 6;
-            this.herkutBT.Text = "   Herkut";
-            this.herkutBT.TextImageRelation = TextImageRelation.TextBeforeImage;
-            this.herkutBT.UseVisualStyleBackColor = true;
             // 
             // panel4
             // 
@@ -184,6 +156,7 @@
             meistaBT.Text = "  Meistä";
             meistaBT.TextImageRelation = TextImageRelation.TextBeforeImage;
             meistaBT.UseVisualStyleBackColor = true;
+            meistaBT.Click += meistaBT_Click;
             // 
             // ylaPL
             // 
@@ -194,6 +167,16 @@
             ylaPL.Name = "ylaPL";
             ylaPL.Size = new Size(531, 55);
             ylaPL.TabIndex = 1;
+            // 
+            // hattuPB
+            // 
+            hattuPB.Image = Properties.Resources.cook_hat;
+            hattuPB.InitialImage = (Image)resources.GetObject("hattuPB.InitialImage");
+            hattuPB.Location = new Point(459, 9);
+            hattuPB.Name = "hattuPB";
+            hattuPB.Size = new Size(53, 50);
+            hattuPB.TabIndex = 0;
+            hattuPB.TabStop = false;
             // 
             // otsikkoLB
             // 
@@ -215,6 +198,15 @@
             meistaPL.Name = "meistaPL";
             meistaPL.Size = new Size(531, 326);
             meistaPL.TabIndex = 2;
+            // 
+            // meistaLB
+            // 
+            meistaLB.AutoSize = true;
+            meistaLB.Location = new Point(16, 16);
+            meistaLB.Name = "meistaLB";
+            meistaLB.Size = new Size(38, 15);
+            meistaLB.TabIndex = 0;
+            meistaLB.Text = "label1";
             // 
             // ruoatPL
             // 
@@ -252,24 +244,35 @@
             koriPL.Size = new Size(531, 326);
             koriPL.TabIndex = 6;
             // 
-            // hattuPB
+            // herkutBT
             // 
-            hattuPB.Image = Properties.Resources.cook_hat;
-            hattuPB.InitialImage = (Image)resources.GetObject("hattuPB.InitialImage");
-            hattuPB.Location = new Point(459, 9);
-            hattuPB.Name = "hattuPB";
-            hattuPB.Size = new Size(53, 50);
-            hattuPB.TabIndex = 0;
-            hattuPB.TabStop = false;
+            herkutBT.FlatAppearance.BorderSize = 0;
+            herkutBT.FlatStyle = FlatStyle.Flat;
+            herkutBT.ForeColor = SystemColors.ButtonFace;
+            herkutBT.Image = (Image)resources.GetObject("herkutBT.Image");
+            herkutBT.Location = new Point(3, 244);
+            herkutBT.Name = "herkutBT";
+            herkutBT.Size = new Size(137, 59);
+            herkutBT.TabIndex = 8;
+            herkutBT.Text = "Herkut";
+            herkutBT.TextAlign = ContentAlignment.MiddleRight;
+            herkutBT.TextImageRelation = TextImageRelation.TextBeforeImage;
+            herkutBT.UseVisualStyleBackColor = true;
             // 
-            // meistaLB
+            // koriBT
             // 
-            meistaLB.AutoSize = true;
-            meistaLB.Location = new Point(16, 16);
-            meistaLB.Name = "meistaLB";
-            meistaLB.Size = new Size(38, 15);
-            meistaLB.TabIndex = 0;
-            meistaLB.Text = "label1";
+            koriBT.FlatAppearance.BorderSize = 0;
+            koriBT.FlatStyle = FlatStyle.Flat;
+            koriBT.ForeColor = SystemColors.ButtonFace;
+            koriBT.Image = (Image)resources.GetObject("koriBT.Image");
+            koriBT.Location = new Point(6, 309);
+            koriBT.Name = "koriBT";
+            koriBT.Size = new Size(137, 59);
+            koriBT.TabIndex = 9;
+            koriBT.Text = "Kori";
+            koriBT.TextAlign = ContentAlignment.MiddleRight;
+            koriBT.TextImageRelation = TextImageRelation.TextBeforeImage;
+            koriBT.UseVisualStyleBackColor = true;
             // 
             // kahvilaFORM
             // 
@@ -291,9 +294,9 @@
             vasenPL.ResumeLayout(false);
             ylaPL.ResumeLayout(false);
             ylaPL.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)hattuPB).EndInit();
             meistaPL.ResumeLayout(false);
             meistaPL.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)hattuPB).EndInit();
             ResumeLayout(false);
         }
 
@@ -320,5 +323,7 @@
         private Label otsikkoLB;
         private PictureBox hattuPB;
         private Label meistaLB;
+        private Button herkutBT;
+        private Button koriBT;
     }
 }
