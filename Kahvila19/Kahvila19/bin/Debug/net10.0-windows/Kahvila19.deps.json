@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Kahvila19/1.0.0": {
+        "runtime": {
+          "Kahvila19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kahvila19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
