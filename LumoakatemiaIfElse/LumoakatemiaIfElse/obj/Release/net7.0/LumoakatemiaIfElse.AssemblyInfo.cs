@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LumoakatemiaIfElse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09ded3f5e48db11c54e2eeed6d981a910b6dab89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ed5e3933f0ded0a2cee9ac6fa0867077d6335f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LumoakatemiaIfElse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LumoakatemiaIfElse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

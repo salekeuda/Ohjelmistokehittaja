@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LumoAkatemiaPerus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cc78f464724cb51d83d0f658abbb5941a5be497")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ed5e3933f0ded0a2cee9ac6fa0867077d6335f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LumoAkatemiaPerus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LumoAkatemiaPerus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
