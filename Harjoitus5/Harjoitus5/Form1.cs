@@ -1,50 +1,65 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Harjoitus5
 {
     public partial class LukujenJarjestys : Form
     {
-        List<int> jono = new List<int>(); 
+        List<int> jono = new List<int>();
+
         public LukujenJarjestys()
         {
             InitializeComponent();
+            this.KeyPreview = true;   // Mahdollistaa Enter/Escape‑näppäinten toiminnan
         }
 
-        private void uusilukuTB_KeyPress(object sender, KeyPressEventArgs e)
+        private void uusiLukuTB_KeyPress(object sender, KeyPressEventArgs e)
         {
+            // ENTER painettu
             if (e.KeyChar == (char)Keys.Enter)
             {
-                if (uusiLukuTB.Text == "-999")
+                string syote = uusiLukuTB.Text.Trim();
+
+                // Lopetus ja lajittelu
+                if (syote == "-999")
                 {
-                    VastausLB.Text = "";
                     int[] taulukko = jono.ToArray();
                     Array.Sort(taulukko);
-                    foreach (var jasen in taulukko)
-                    {
-                        VastausLB.Text += jasen + " ";
-                    }
+
+                    VastausLB.Text = string.Join(" ", taulukko);
                     VastausLB.Visible = true;
+
+                    jono.Clear();
+                    uusiLukuTB.Text = "";
+                    return;
+                }
+                Array.Sort(taulukko);
+
+                MessageBox.Show("Listassa oli " + taulukko.Length + " lukua");
+
+                VastausLB.Text = string.Join(" ", taulukko);
+
+                // Normaali numeron lisäys
+                if (int.TryParse(syote, out int luku))
+                {
+                    jono.Add(luku);
+                    uusiLukuTB.Text = "";
+                    VastausLB.Visible = false;
                 }
                 else
                 {
-                    jono.Add(Int32.Parse(uusiLukuTB.Text));
-                    uusiLukuTB.Text = "";
+                    MessageBox.Show("Syötä vain numeroita!");
                 }
             }
-            if (e.KeyChar != (char)Keys.Escape)
+
+            // ESC painettu
+            if (e.KeyChar == (char)Keys.Escape)
             {
-                return;
+                TyhjaaLomake();
             }
-            TyhjaaLomake();
         }
+
         private void TyhjaaLomake()
         {
             uusiLukuTB.Text = "";
@@ -52,7 +67,7 @@ namespace Harjoitus5
 
         private void label1_Click(object sender, EventArgs e)
         {
-            // jätä tyhjäksi tai lisää haluamasi toiminto
+            // Ei toimintoa
         }
     }
 }

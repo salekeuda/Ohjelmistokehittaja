@@ -43,7 +43,6 @@ namespace Harjoitus5
             this.label1.Size = new System.Drawing.Size(125, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Anna luku (-999 lopetus):";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // VastausLB
             // 
@@ -61,6 +60,7 @@ namespace Harjoitus5
             this.uusiLukuTB.Name = "uusiLukuTB";
             this.uusiLukuTB.Size = new System.Drawing.Size(122, 20);
             this.uusiLukuTB.TabIndex = 2;
+            this.uusiLukuTB.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.uusiLukuTB_KeyPress);
             // 
             // LukujenJarjestys
             // 
@@ -71,7 +71,7 @@ namespace Harjoitus5
             this.Controls.Add(this.VastausLB);
             this.Controls.Add(this.label1);
             this.Name = "LukujenJarjestys";
-            this.Text = "Lukujen järjestys";
+            this.Text = "S";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
