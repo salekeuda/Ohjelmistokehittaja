@@ -69,6 +69,7 @@
             this.oppilaitosCB.Name = "oppilaitosCB";
             this.oppilaitosCB.Size = new System.Drawing.Size(121, 21);
             this.oppilaitosCB.TabIndex = 2;
+            this.oppilaitosCB.SelectedIndexChanged += new System.EventHandler(this.oppilaitosCB_SelectedIndexChanged);
             // 
             // vastuuhenkiloCB
             // 
@@ -77,6 +78,7 @@
             this.vastuuhenkiloCB.Name = "vastuuhenkiloCB";
             this.vastuuhenkiloCB.Size = new System.Drawing.Size(178, 21);
             this.vastuuhenkiloCB.TabIndex = 4;
+            this.vastuuhenkiloCB.TextChanged += new System.EventHandler(this.vastuuhenkiloCB_TextChanged);
             // 
             // label3
             // 
@@ -181,6 +183,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
