@@ -12,13 +12,6 @@ namespace Harjoitus20
 {
     public partial class Form1 : Form
     {
-
-        static void Main(string[] args)
-        {
-            string server = "localhost";
-            string database = "opiskelijat";
-        }
-
         OPISKELIJA Opiskelija = new OPISKELIJA();
         public Form1()
         {
@@ -47,11 +40,11 @@ namespace Harjoitus20
 
         private void tallennaBT_Click(object sender, EventArgs e)
         {
-            string etunimi = etunimiTB.Text = "";
-            string sukunimi = sukunimiTB.Text = "";
-            string puhelin = puhelinTB.Text = "";
-            string email = spostiTB.Text = "";
-            int opiskelijaNro = Int32.Parse (spostiTB.Text);
+            string etunimi = etunimiTB.Text;
+            string sukunimi = sukunimiTB.Text;
+            string puhelin = puhelinTB.Text;
+            string email = spostiTB.Text;
+            int opiskelijaNro = Int32.Parse(opiskelijanroTB.Text);
 
             if (etunimi.Trim().Equals("") || sukunimi.Trim().Equals("") || puhelin.Trim().Equals("") || email.Trim().Equals("") || opiskelijaNro.Equals(""))
             {

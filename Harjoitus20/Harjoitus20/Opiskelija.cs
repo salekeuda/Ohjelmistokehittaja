@@ -44,7 +44,7 @@ class OPISKELIJA
     public DataTable haeOpiskelijat()
     {
         MySqlCommand komento = new MySqlCommand(
-            "SELECT cid, etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero FROM yhteystiedot",
+            "SELECT Oid, etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero FROM yhteystiedot",
             yhteys.otaYhteys()
         );
 
