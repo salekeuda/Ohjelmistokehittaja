@@ -12,6 +12,14 @@ namespace Harjoitus20
 {
     public partial class Form1 : Form
     {
+
+        static void Main(string[] args)
+        {
+            string server = "localhost";
+            string database = "opiskelijat";
+        }
+
+        OPISKELIJA Opiskelija = new OPISKELIJA();
         public Form1()
         {
             InitializeComponent();
@@ -24,7 +32,7 @@ namespace Harjoitus20
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            tietotauluDG.DataSource = opiskelija.haeOpiskelijat();
+            tietotauluDG.DataSource = Opiskelija.haeOpiskelijat();
         }
 
         private void tyhjennaBT_Click(object sender, EventArgs e)
@@ -51,7 +59,7 @@ namespace Harjoitus20
             }
             else
             {
-                Boolean lisaaAsiakas = opiskelija.lisaaOpiskelija(etunimi, sukunimi, puhelin, email, opiskelijaNro);
+                Boolean lisaaAsiakas = Opiskelija.lisaaOpiskelija(etunimi, sukunimi, puhelin, email, opiskelijaNro);
                 if (lisaaAsiakas)
                 {
              
@@ -63,7 +71,7 @@ namespace Harjoitus20
                         MessageBox.Show("Uutta opiskelijaa ei pystytty lisäämään", "Opiskelijan lisäys", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                  }
-            tietotauluDG.DataSource = opiskelija.haeOpiskelija();
+            tietotauluDG.DataSource = Opiskelija.haeOpiskelijat();
         }
     }
 }
