@@ -15,3 +15,20 @@ C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 12\harjoitu
 C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.pdb
 C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.genruntimeconfig.cache
 C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\ref\harjoitus 12.dll
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\bin\Debug\net8.0-windows\harjoitus 12.exe
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\bin\Debug\net8.0-windows\harjoitus 12.deps.json
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\bin\Debug\net8.0-windows\harjoitus 12.runtimeconfig.json
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\bin\Debug\net8.0-windows\harjoitus 12.dll
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\bin\Debug\net8.0-windows\harjoitus 12.pdb
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus_12.vastauslomakeForm.resources
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.csproj.GenerateResource.cache
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.AssemblyInfoInputs.cache
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.AssemblyInfo.cs
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.csproj.CoreCompileInputs.cache
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.sourcelink.json
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.dll
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\refint\harjoitus 12.dll
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.pdb
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\harjoitus 12.genruntimeconfig.cache
+C:\Users\Pääkäyttäjä\Desktop\Uusi kansio\Ohjelmistokehittaja\harjoitus 12\harjoitus 12\obj\Debug\net8.0-windows\ref\harjoitus 12.dll

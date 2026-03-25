@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pääkäyttäjä\\source\\repos\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\harjoitus 12.csproj": {}
+    "C:\\Users\\Pääkäyttäjä\\Desktop\\Uusi kansio\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\harjoitus 12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pääkäyttäjä\\source\\repos\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\harjoitus 12.csproj": {
+    "C:\\Users\\Pääkäyttäjä\\Desktop\\Uusi kansio\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\harjoitus 12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pääkäyttäjä\\source\\repos\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\harjoitus 12.csproj",
+        "projectUniqueName": "C:\\Users\\Pääkäyttäjä\\Desktop\\Uusi kansio\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\harjoitus 12.csproj",
         "projectName": "harjoitus 12",
-        "projectPath": "C:\\Users\\Pääkäyttäjä\\source\\repos\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\harjoitus 12.csproj",
+        "projectPath": "C:\\Users\\Pääkäyttäjä\\Desktop\\Uusi kansio\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\harjoitus 12.csproj",
         "packagesPath": "C:\\Users\\Pääkäyttäjä\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pääkäyttäjä\\source\\repos\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\obj\\",
+        "outputPath": "C:\\Users\\Pääkäyttäjä\\Desktop\\Uusi kansio\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pääkäyttäjä\\AppData\\Roaming\\NuGet\\NuGet.Config",

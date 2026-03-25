@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tdwOoPiu+Tk=",
+  "dgSpecHash": "5vMa9rWZnJ4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pääkäyttäjä\\source\\repos\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\harjoitus 12.csproj",
+  "projectFilePath": "C:\\Users\\Pääkäyttäjä\\Desktop\\Uusi kansio\\Ohjelmistokehittaja\\harjoitus 12\\harjoitus 12\\harjoitus 12.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pääkäyttäjä\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
     "C:\\Users\\Pääkäyttäjä\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
