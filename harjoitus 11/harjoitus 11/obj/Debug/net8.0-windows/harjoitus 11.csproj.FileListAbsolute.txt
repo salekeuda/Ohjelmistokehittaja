@@ -1,0 +1,18 @@
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\bin\Debug\net8.0-windows\harjoitus 11.exe
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\bin\Debug\net8.0-windows\harjoitus 11.deps.json
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\bin\Debug\net8.0-windows\harjoitus 11.runtimeconfig.json
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\bin\Debug\net8.0-windows\harjoitus 11.dll
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\bin\Debug\net8.0-windows\harjoitus 11.pdb
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus_11.nopaheittoForm.resources
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus_11.Properties.Resources.resources
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus 11.csproj.GenerateResource.cache
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus 11.AssemblyInfoInputs.cache
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus 11.AssemblyInfo.cs
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus 11.csproj.CoreCompileInputs.cache
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus 11.sourcelink.json
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus 11.dll
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\refint\harjoitus 11.dll
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus 11.pdb
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\harjoitus 11.genruntimeconfig.cache
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 11\harjoitus 11\obj\Debug\net8.0-windows\ref\harjoitus 11.dll

@@ -1,0 +1,17 @@
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\bin\Debug\net8.0-windows\harjoitus 3.exe
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\bin\Debug\net8.0-windows\harjoitus 3.deps.json
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\bin\Debug\net8.0-windows\harjoitus 3.runtimeconfig.json
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\bin\Debug\net8.0-windows\harjoitus 3.dll
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\bin\Debug\net8.0-windows\harjoitus 3.pdb
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\harjoitus_3.Form1.resources
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\harjoitus 3.csproj.GenerateResource.cache
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\harjoitus 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\harjoitus 3.AssemblyInfoInputs.cache
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\harjoitus 3.AssemblyInfo.cs
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\harjoitus 3.csproj.CoreCompileInputs.cache
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\harjoitus 3.sourcelink.json
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\harjoitus 3.dll
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\refint\harjoitus 3.dll
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\harjoitus 3.pdb
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\harjoitus 3.genruntimeconfig.cache
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\harjoitus 3\harjoitus 3\obj\Debug\net8.0-windows\ref\harjoitus 3.dll

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21EBCF3A-E5BC-47FD-B517-D759A4E3EBF1}|Harjoitus20\\Harjoitus20.csproj|C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\harjoitus20\\yhdista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EBCF3A-E5BC-47FD-B517-D759A4E3EBF1}|Harjoitus20\\Harjoitus20.csproj|solutionrelative:harjoitus20\\yhdista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EBCF3A-E5BC-47FD-B517-D759A4E3EBF1}|Harjoitus20\\Harjoitus20.csproj|C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\harjoitus20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21EBCF3A-E5BC-47FD-B517-D759A4E3EBF1}|Harjoitus20\\Harjoitus20.csproj|solutionrelative:harjoitus20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EBCF3A-E5BC-47FD-B517-D759A4E3EBF1}|Harjoitus20\\Harjoitus20.csproj|C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\harjoitus20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EBCF3A-E5BC-47FD-B517-D759A4E3EBF1}|Harjoitus20\\Harjoitus20.csproj|solutionrelative:harjoitus20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EBCF3A-E5BC-47FD-B517-D759A4E3EBF1}|Harjoitus20\\Harjoitus20.csproj|c:\\users\\p\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\ohjelmistokehittaja\\harjoitus20\\harjoitus20\\opiskelija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EBCF3A-E5BC-47FD-B517-D759A4E3EBF1}|Harjoitus20\\Harjoitus20.csproj|solutionrelative:harjoitus20\\opiskelija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\Harjoitus20\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus20\\Form1.cs",
+              "ToolTip": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\Harjoitus20\\Form1.cs",
+              "RelativeToolTip": "Harjoitus20\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:28:23.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Opiskelija.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\Harjoitus20\\Opiskelija.cs",
+              "RelativeDocumentMoniker": "Harjoitus20\\Opiskelija.cs",
+              "ToolTip": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\Harjoitus20\\Opiskelija.cs",
+              "RelativeToolTip": "Harjoitus20\\Opiskelija.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:28:23.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Yhdista.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\Harjoitus20\\Yhdista.cs",
+              "RelativeDocumentMoniker": "Harjoitus20\\Yhdista.cs",
+              "ToolTip": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\Harjoitus20\\Yhdista.cs",
+              "RelativeToolTip": "Harjoitus20\\Yhdista.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:28:24.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\Harjoitus20\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus20\\Form1.cs",
+              "ToolTip": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\Harjoitus20\\Harjoitus20\\Form1.cs [Design]",
+              "RelativeToolTip": "Harjoitus20\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:28:24.114Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

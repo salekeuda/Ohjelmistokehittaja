@@ -1,0 +1,5 @@
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\Harjoitus20\Harjoitus20\obj\Debug\Harjoitus20.csproj.AssemblyReference.cache
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\Harjoitus20\Harjoitus20\obj\Debug\Harjoitus20.Form1.resources
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\Harjoitus20\Harjoitus20\obj\Debug\Harjoitus20.Properties.Resources.resources
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\Harjoitus20\Harjoitus20\obj\Debug\Harjoitus20.csproj.GenerateResource.cache
+C:\Users\Pääkäyttäjä\source\repos\Ohjelmistokehittaja\Harjoitus20\Harjoitus20\obj\Debug\Harjoitus20.csproj.CoreCompileInputs.cache

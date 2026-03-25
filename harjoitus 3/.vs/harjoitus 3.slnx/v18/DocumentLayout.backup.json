@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\harjoitus 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C19A29A-748F-4E85-B7BB-CB0FB3B21B17}|harjoitus 3\\harjoitus 3.csproj|c:\\users\\p\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\ohjelmistokehittaja\\harjoitus 3\\harjoitus 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C19A29A-748F-4E85-B7BB-CB0FB3B21B17}|harjoitus 3\\harjoitus 3.csproj|solutionrelative:harjoitus 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C19A29A-748F-4E85-B7BB-CB0FB3B21B17}|harjoitus 3\\harjoitus 3.csproj|c:\\users\\p\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\ohjelmistokehittaja\\harjoitus 3\\harjoitus 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C19A29A-748F-4E85-B7BB-CB0FB3B21B17}|harjoitus 3\\harjoitus 3.csproj|solutionrelative:harjoitus 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\harjoitus 3\\harjoitus 3\\Form1.cs",
+              "RelativeDocumentMoniker": "harjoitus 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\harjoitus 3\\harjoitus 3\\Form1.cs*",
+              "RelativeToolTip": "harjoitus 3\\Form1.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T07:42:11.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\harjoitus 3\\harjoitus 3\\Form1.cs",
+              "RelativeDocumentMoniker": "harjoitus 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\P\u00E4\u00E4k\u00E4ytt\u00E4j\u00E4\\source\\repos\\Ohjelmistokehittaja\\harjoitus 3\\harjoitus 3\\Form1.cs [Design]*",
+              "RelativeToolTip": "harjoitus 3\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T07:31:43.026Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
